@@ -2,9 +2,8 @@ import os
 import requests
 import logging
 
-print("This is a Proxy Scrapper made by Team Coderunner for RowdyHacks 2024")
-print("This is a simple program that pulls from the Proxyscrape API to get  proxies.")
-print("This pulls from the Proxyscrape API to get the proxies.")
+print("This is a Proxy Scrapper From Team Coderunner for RowdyHacks 2024")
+print("This program  pulls from the Proxyscrape API to getproxies.")
 
 print("Proxies are useful for: Access Control, anonymization, and content filtering.")
 
