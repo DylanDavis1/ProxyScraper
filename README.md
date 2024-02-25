@@ -1,6 +1,6 @@
 # Proxy Fetcher
 
-![Proxy Fetcher](logo.png)
+![ProxyScraper](logo.png)
 
 ## Introduction
 
