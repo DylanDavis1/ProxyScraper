@@ -13,3 +13,9 @@ ProxyScraper is a python script that scrapes proxies from the ProxyScraper API b
 - Fetches proxies from ProxyScrape API
 - Uses HTTP, SOCKS4, and SOCKS5 protocols
 - Saves proxies to a text file
+
+Proxies are used for various purposes in computer networking and internet usage, including:
+
+- **Anonymity:** Proxies can help users hide their IP addresses, providing a level of security while browsing the internet.
+- **Access Control:** Proxies can control access to resources on the internet or within a private network based on predefined rules and policies.
+- **Content Filtering:** Proxies can filter web content based on defined criteria such as URLs, keywords, or categories, helping to enforce acceptable use policies.
